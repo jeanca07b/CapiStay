@@ -1,0 +1,39 @@
+﻿# .NET
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+*.cache
+
+# Node.js
+**/node_modules/
+**/.next/
+**/out/
+**/dist/
+**/coverage/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+**/secrets.json
+**/appsettings.Local.json
+
+# Logs and temporary files
+*.log
+logs/
+temp/
+tmp/
+
+# Local databases and backups
+*.mdf
+*.ldf
+*.bak
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
