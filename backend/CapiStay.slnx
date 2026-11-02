@@ -1,2 +1,8 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CapiStay.API/CapiStay.API.csproj" />
+    <Project Path="src/CapiStay.Application/CapiStay.Application.csproj" />
+    <Project Path="src/CapiStay.Domain/CapiStay.Domain.csproj" />
+    <Project Path="src/CapiStay.Infrastructure/CapiStay.Infrastructure.csproj" />
+  </Folder>
 </Solution>
