@@ -19,6 +19,7 @@
 !.env.example
 **/secrets.json
 **/appsettings.Local.json
+**/appsettings.Development.json
 
 # Logs and temporary files
 *.log
@@ -37,3 +38,4 @@ tmp/
 .DS_Store
 Thumbs.db
 desktop.ini
+/backend/CapiStay-Initial.sql
